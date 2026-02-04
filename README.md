@@ -4,6 +4,8 @@ I am alice. I study art.
 
 Can't use computers. Just having fun. 
 
+Bye
+
 <!--
 **straccino/straccino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
