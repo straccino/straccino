@@ -1,5 +1,8 @@
 # Hello there! 
-I am alice, a uni student from Italy
+
+I am alice. I study art. 
+
+Can't use computers. Just having fun. 
 
 <!--
 **straccino/straccino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
